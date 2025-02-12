@@ -1,2 +1,5 @@
 psycopg2-binary
 sqlalchemy
+plotly.express
+pandas
+streamlit_option_menu
