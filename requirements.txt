@@ -3,3 +3,8 @@ sqlalchemy
 plotly.express
 pandas
 streamlit_option_menu
+numpy
+scikit-learn
+plotly
+xgboost
+google
